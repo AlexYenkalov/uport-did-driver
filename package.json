@@ -9,12 +9,14 @@
   "author": "Christian Lundkvist",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
+    "7hirthen-did-resolver": "^0.3.8",
     "did-resolver": "^0.0.4",
-    "uport-did-resolver": "^0.0.2",
-    "muport-did-resolver": "^0.0.4",
-    "ethr-did-resolver": "^0.0.8",
     "eth-did-resolver": "^0.1.1",
-    "ethereumjs-util": "^5.1.5"
+    "ethereumjs-util": "^5.1.5",
+    "ethr-did-resolver": "^0.0.8",
+    "express": "^4.16.2",
+    "muport-did-resolver": "^0.0.4",
+    "spherity-did-resolver": "^0.3.7",
+    "uport-did-resolver": "^0.0.2"
   }
 }
